@@ -2,7 +2,7 @@
 
 ## Overview
 This is a basic portfolio website built using React.js, Bootstrap, and vanilla CSS. The website serves as a showcase for your projects, skills, and experience. It's designed to be simple, yet elegant, allowing visitors to easily navigate through your portfolio and learn more about you.
-[Preview](portfolio-2ezhxl3nw-manish-kumars-projects-2dc01cc3.vercel.app)
+[Preview](https://vercel.com/manish-kumars-projects-2dc01cc3/portfolio/deployments)
 
 
 ##Home Nenu
