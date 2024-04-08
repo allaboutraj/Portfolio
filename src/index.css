@@ -115,11 +115,45 @@ a{
 
 .ex-items{
   display:flex;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
   background-color: var(--bg-color);
   margin: 20px;
   width: 70vw;
-  padding: ;
+  padding: 30px;
+  border-radius: 10px;
   border: 2px solid yellow;
+  border: ;
+}
+
+
+/*Skills Section */
+
+.skills{
+  width: 90vw;
+
+}
+
+.skills .items {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* width: 80vw; */
+  margin: auto;
+  flex-wrap: wrap;
+}
+
+.skills .items .item{
+  background-color: black;
+  width: calc(33.33%);
+  margin: 20px;
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+  border: 2px solid yellow;
+  box-shadow: var(--box-shadow);
+}
+
+.skills .items .item img{
+  width: 7vw;
 }

@@ -6,6 +6,7 @@ const Experience = () => {
     <>
       <div className="container ex">
         <h1>Experience</h1>
+        <hr />
         {
           experience.map((data) => {
             return (
