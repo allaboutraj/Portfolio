@@ -3,7 +3,10 @@ import React from 'react'
 const Navbar = () => {
   return (
     <>
-      <div className="nav_bar container">
+      <div className="nav_bar container"
+      data-aos="fade-down"
+      data-aos-duration="1000"
+      >
         <div className="left nav_items">PortFolio</div>
         <div className="right">
             <a href="#" className="nav_items">Home</a>

@@ -6,7 +6,7 @@ const Projects = () => {
     <>
       <div className="container projects my-3" id="projects">
         <h1>PROJECTS</h1>
-        <hr/>
+        <hr />
         <div className="row d-flex justify-content-center align-content-center">
           {project.map((data) => (
             <>
@@ -21,6 +21,7 @@ const Projects = () => {
                     border: "1px solid yellow",
                     boxShadow: "5px 5px 10px 10px rgba(148, 150, 145, 0.5)",
                   }}
+                  
                   data-aos="flip-right"
                   data-aos-duration="1000"
                 >
