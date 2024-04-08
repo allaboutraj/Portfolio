@@ -8,6 +8,7 @@ import { FaSquareXTwitter } from "react-icons/fa6";
 const Contact = () => {
   return (
     <>
+    <div className="container contact" id="contact">
       <h1>Contact Me</h1>
       <hr />
       <div className="contact-icon"
@@ -29,6 +30,7 @@ const Contact = () => {
         <a href="https://twitter.com/manishgupta9507" target="_blank" className="items">
         <FaSquareXTwitter className="icons"/>
         </a>
+      </div>
       </div>
     </>
   );
