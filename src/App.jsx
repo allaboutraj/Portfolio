@@ -1,12 +1,16 @@
 import { useState } from 'react';
-import Navbar
- from './components/Navbar';
-
+import Navbar from './components/Navbar';
+import Home from './components/Home';
+import Experience from './components/Experience';
 
 function App() {
   return (
     <>
       <Navbar />
+      <div className="container">
+        <Home />
+        <Experience />
+      </div>
     </>
   )
 }

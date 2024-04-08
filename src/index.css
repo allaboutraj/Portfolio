@@ -5,6 +5,11 @@
   font-family: "Outfit", "Helvetica Neue", Helvetica, Arial, sans-serif;
 } */
 
+:root{
+  /* --box-shadow: 5px 5px 10px 10px rgba(101,175,10,0.5); */
+  --box-shadow: 5px 5px 10px 10px rgba(148, 150, 145, 0.5);
+  --bg-color:rgb(11, 28, 59);
+}
 body{
   background-color: rgb(11, 26, 51);
   color: white;
@@ -30,4 +35,91 @@ a{
 
 .nav_bar .nav_items:hover{
   border-bottom: 3px solid white;
+}
+
+
+/*Home Scetion */
+.home{
+  height: 80vh;
+  display:flex;
+  justify-content: space-between;
+  align-items:center;
+}
+
+.home .left{
+  background-color: var(--bg-color);
+  width: 60vw;
+  text-align: center;
+  padding: 3vw;
+  border-radius:10px;
+  border: 1px solid yellow;
+  box-shadow: var(--box-shadow);
+  margin-right: 80px;
+}
+
+.home .right .img{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  /* background-color: yellow; */
+}
+
+.home .right .img img{
+  height: 30vh;
+  width: 100%;
+  border-radius:100%;
+  border: 2px solid white;
+  animation: superman 3s infinite;
+
+}
+
+/*Animation on Image */
+
+@keyframes superman {
+  0%{ 
+    border-color: blue;
+    transform: translate(0,0);
+    box-shadow: 10px 10px 100px 50px blue;
+  }
+
+  25%{ 
+    border-color: rgb(239,244,11);
+    box-shadow: 10px 10px 100px 50px rgb(239,244,11);
+  }
+
+  50%{ 
+    border-color: rgb(12,12,199);
+    transform: translate(0,10px);
+    box-shadow: 10px 10px 100px 50px rgb(12,12,199);
+  }
+  
+  75%{ 
+    border-color: rgb(130,217,160);
+    box-shadow: 10px 10px 100px 50px rgb(130,217,160);
+  }
+
+  100%{ 
+    border-color: rgb(50,55,205);
+    transform: translate(0,-0px);
+    box-shadow: 10px 10px 100px 50px rgb(50,55,205);
+  }
+
+}
+
+
+/*Experince Section */
+
+.ex{
+  width: 90vw;
+}
+
+.ex-items{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--bg-color);
+  margin: 20px;
+  width: 70vw;
+  padding: ;
+  border: 2px solid yellow;
 }
