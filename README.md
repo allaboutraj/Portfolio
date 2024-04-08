@@ -1,4 +1,4 @@
-# Basic React Portfolio Website
+# React Portfolio Website
 
 ## Overview
 This is a basic portfolio website built using React.js, Bootstrap, and vanilla CSS. The website serves as a showcase for your projects, skills, and experience. It's designed to be simple, yet elegant, allowing visitors to easily navigate through your portfolio and learn more about you.
