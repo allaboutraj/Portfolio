@@ -1,34 +1,34 @@
 [
   {
     "key": 1,
-    "title": "React E-Commerce",
+    "title": "CodeFlick",
     "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "A microservice API for a LeetCode-style web app.",
+    "demo": "https://github.com/allaboutraj/codeflick",
+    "source": "https://github.com/allaboutraj/codeflick"
   },
   {
     "key": 2,
-    "title": "MERN Blogging",
-    "imageSrc": "https://cdn.pixabay.com/photo/2017/05/02/15/30/streets-2278471_640.jpg",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "The Meal App",
+    "imageSrc": "https://private-user-images.githubusercontent.com/49842899/327876893-b97737d6-48b9-436d-bb72-647c0fd43d5b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU3MTY3NDQsIm5iZiI6MTcxNTcxNjQ0NCwicGF0aCI6Ii80OTg0Mjg5OS8zMjc4NzY4OTMtYjk3NzM3ZDYtNDhiOS00MzZkLWJiNzItNjQ3YzBmZDQzZDViLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTE0VDE5NTQwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgxOWY0NGQwM2NiYmFlMjI5YmQ2MGY4NzM1ZTc3Y2RmZDRkYzY0NmY1ZmVkMjg2ZDI3NzM0YjdmZmM1YmYxNDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.yMZdEeBCJYofz5uidyn6E0wZsrrVQaSnxwmh5bDAXOU",
+    "description": "This is a project made using API, Fully Responsive.",
+    "demo": "https://meal-app-chi.vercel.app/",
+    "source": "https://github.com/allaboutraj/Meal-app"
   },
   {
     "key": 3,
-    "title": "React Recipe",
+    "title": "TodoAPI Backend",
     "imageSrc": "https://cdn.pixabay.com/photo/2016/08/16/17/12/skyscrapers-1598418_640.jpg",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Developed a RESTful API for task management.",
+    "demo": "https://github.com/allaboutraj/TodoAPI",
+    "source": "https://github.com/allaboutraj/TodoAPI"
   },
   {
     "key": 4,
-    "title": "React Firebase App",
-    "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "IMDb Clone",
+    "imageSrc": "https://private-user-images.githubusercontent.com/49842899/321831337-cf38b528-2937-4fce-ae5a-b690564dc551.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU3MTY1MDMsIm5iZiI6MTcxNTcxNjIwMywicGF0aCI6Ii80OTg0Mjg5OS8zMjE4MzEzMzctY2YzOGI1MjgtMjkzNy00ZmNlLWFlNWEtYjY5MDU2NGRjNTUxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTE0VDE5NTAwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM4YTg0ZGQ0NWRiN2E3ZGYzNzA5ODc3MDBiMmExZDE1NjIwYTFiYzdmOTRiMzU1MmFiMDczZTZkNTExYzlmNmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Lv_sXG5EF--6cj87Fpy1xAXzm-qOiRUSWA-eoHRh8eA",
+    "description": "This IMDb UI Clone project utilizes React and the TMDB API to replicate IMDb's interface.",
+    "demo": "https://github.com/allaboutraj/IMDB_Clone?tab=readme-ov-file",
+    "source": "https://github.com/allaboutraj/IMDB_Clone?tab=readme-ov-file"
   }
 ]

@@ -1,41 +1,28 @@
 [
   {
     "id": 1,
-    "role": "Senior Software Development Engineer SDE - II",
-    "organisation": "Google",
-    "startDate": "Sept, 2023",
+    "role": "Associate Software Engineer",
+    "organisation": "Highradius",
+    "startDate": "July, 2022 -",
     "endDate": "Present",
-    "location": "CA,United State",
+    "location": "Hyderabad, India",
     "experiences": [
-      "Worked on Google Gmail",
-      "Worked with the Google Bard Team"
+      "Designed and implemented the RestAPI for the UI screen where users can perform the CRUD functionally.",
+      "Developed reusable stateful dynamic UI components using ReactJS, Redux, JavaScript,NodeJs."
     ],
-    "imageSrc": "company/google.png"
+    "imageSrc": "company/highradius.png"
   },
   {
     "id": 2,
-    "role": "Software Development Engineer SDE - I",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2022",
-    "endDate": "Aug, 2023",
-    "location": "London, UK",
+    "role": "Software Trainee",
+    "organisation": "Highradius",
+    "startDate": "Aug, 2021 -",
+    "endDate": "June, 2022",
+    "location": "Hyderabad, India",
     "experiences": [
-      "Worked on Windows 10 terminal",
-      "Worked on Window 11 Upcoming features"
+      "Served as full-stack developer, responsible for developing web applications using different web frameworks and libraries.",
+      "Developed Employee Dashboard using ReactJS, Redux."
     ],
-    "imageSrc": "company/microsoft.png"
-  },
-  {
-    "id": 3,
-    "role": "Software Development Engineer - Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2021",
-    "endDate": "Jun, 2022",
-    "location": "Bengluru, India",
-    "experiences": [
-      "Worked on Nextflix payment system",
-      "Helped to create UI for video player"
-    ],
-    "imageSrc": "company/netflix.png"
+    "imageSrc": "company/highradius.png"
   }
 ]
